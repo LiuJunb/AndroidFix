@@ -1,7 +1,6 @@
 # AndroidFix
 Android 热修复框架，AndFix的使用教程。该项目将会教大家如何一步一步去使用阿里里巴巴的热修复框架AndFix
 
-
 这篇文章将演示一下在项目中如何使用AndFix框架，如何实现动态修复app中的bugs。在看这篇文章之前请先看[Android 热修复框架 AndFix (一)](http://blog.csdn.net/u012987546/article/details/53583417)
 
 [AndroidFix项目github地址 ](https://github.com/LiuJunb/AndroidFix)
@@ -244,7 +243,7 @@ public class MainActivity extends AppCompatActivity {
 
 1.点击Android studio中的: Buider->Generate Signed APk..-->Create New
 
- ![1](1.png)
+ ![1](https://raw.githubusercontent.com/LiuJunb/AndroidFix/master/screen/1.png)
 
 
 
@@ -254,7 +253,7 @@ public class MainActivity extends AppCompatActivity {
 
 1.点击Android studio中的: Buider->Generate Signed APk..-->Next
 
- ![2](2.png)
+ ![2](https://github.com/LiuJunb/AndroidFix/blob/master/screen/2.png?raw=true)
 
 2.签名打包后就会生成一个正式签名的apk文件：`app-release1.0.apk`
 
@@ -262,7 +261,7 @@ public class MainActivity extends AppCompatActivity {
 
 1.在点击登录的时候蹦了
 
- ![12](12.gif)
+ ![12](https://github.com/LiuJunb/AndroidFix/blob/master/screen/12.gif?raw=true)
 
 **10.开始修复bugs**
 
@@ -374,7 +373,7 @@ diff.dex
 
 2.因为这里使用的模拟器是genymotion：把补丁文件push到下面文件夹；
 
-![3](3.png)
+![3](https://github.com/LiuJunb/AndroidFix/blob/master/screen/3.png?raw=true)
 
 **14.从新启动APP**
 
@@ -382,9 +381,12 @@ diff.dex
 
 2.重新启动后bugs已被修复，并不需要重新安装APP
 
- ![13](13.gif)
+ ![13](https://github.com/LiuJunb/AndroidFix/blob/master/screen/13.gif?raw=true)
 
 3.至此APP登录出现的bug修复完成
+
+
+
 
 
 
