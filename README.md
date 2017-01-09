@@ -1,7 +1,7 @@
-# AndroidFix
+# Android 热修复框架 AndFix ( 二 )
 Android 热修复框架，AndFix的使用教程。该项目将会教大家如何一步一步去使用阿里里巴巴的热修复框架AndFix
 
-这篇文章将演示一下在项目中如何使用AndFix框架，如何实现动态修复app中的bugs。在看这篇文章之前请先看[Android 热修复框架 AndFix (一)](http://blog.csdn.net/u012987546/article/details/53583417)
+这篇文章将演示一下在项目中如何使用AndFix框架，如何实现动态修复app中的bugs。在看这篇文章之前请先看[Android 热修复框架 AndFix (一)](http://blog.csdn.net/u012987546/article/details/53583417),想了解更多可以看:[Android 热修复框架 AndFix ( 三 )](http://blog.csdn.net/u012987546/article/details/53710712)
 
 [AndroidFix项目github地址 ](https://github.com/LiuJunb/AndroidFix)
 
